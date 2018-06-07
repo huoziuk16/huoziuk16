@@ -1,1 +1,11 @@
-# huoziuk16
+剑武天下技术支持</br></br>
+第一张图片：</br>
+![](https://github.com/huoziuk16/huoziuk16/blob/jpxc/1.png?raw=true)</br></br>
+第二张图片：</br>
+![](https://github.com/huoziuk16/huoziuk16/blob/jpxc/2.png?raw=true)</br></br>
+第三张图片：</br>
+![](https://github.com/huoziuk16/huoziuk16/blob/jpxc/3.png?raw=true)</br></br>
+第四张图片：</br>
+![](https://github.com/huoziuk16/huoziuk16/blob/jpxc/4.png?raw=true)</br></br>
+第五张图片：</br>
+![](https://github.com/huoziuk16/huoziuk16/blob/jpxc/5.png?raw=true)</br></br>
